@@ -14,6 +14,4 @@ public class Car {
 }
 ```
 
-</br>
-
-![classFileName](./img/classFileName$.png)
+![title](/img/classFileName$.png)
